@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra_hooks-context_use-effect/static/css/main.3744e965.css",
+    "main.js": "/ra_hooks-context_use-effect/static/js/main.d1f7e06a.js",
+    "static/js/787.f578d348.chunk.js": "/ra_hooks-context_use-effect/static/js/787.f578d348.chunk.js",
+    "index.html": "/ra_hooks-context_use-effect/index.html",
+    "main.3744e965.css.map": "/ra_hooks-context_use-effect/static/css/main.3744e965.css.map",
+    "main.d1f7e06a.js.map": "/ra_hooks-context_use-effect/static/js/main.d1f7e06a.js.map",
+    "787.f578d348.chunk.js.map": "/ra_hooks-context_use-effect/static/js/787.f578d348.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3744e965.css",
+    "static/js/main.d1f7e06a.js"
+  ]
+}
